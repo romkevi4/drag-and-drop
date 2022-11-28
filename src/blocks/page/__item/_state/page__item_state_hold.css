@@ -1,0 +1,11 @@
+/* Page */
+.page__item_state_hold {
+  padding: .8rem 1rem;
+  width: 150px;
+  height: 66px;
+
+  box-shadow: 4px 4px 9px rgba(198, 198, 198, .36);
+  border-radius: 20px;
+  background: #84fab0;
+  color: #828282;
+}

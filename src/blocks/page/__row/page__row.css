@@ -1,0 +1,9 @@
+/* Page */
+.page__row {
+  margin-bottom: 1rem;
+  width: 600px;
+
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}

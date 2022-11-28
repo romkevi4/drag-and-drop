@@ -1,0 +1,12 @@
+/* Root */
+.root {
+  margin: 0;
+  padding-top: 5rem;
+
+  font-family: 'RubikDistressed', sans-serif;
+
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  box-sizing: border-box;
+}
