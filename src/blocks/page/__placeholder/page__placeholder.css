@@ -2,4 +2,6 @@
 .page__placeholder {
   width: 150px;
   height: 66px;
+
+  display: flex;
 }

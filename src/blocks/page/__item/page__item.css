@@ -1,16 +1,18 @@
 /* Page */
 .page__item {
-  padding: .8rem 1rem;
+  margin: auto;
+  /*padding: 10px;*/
   width: 150px;
   height: 66px;
 
   box-shadow: 4px 4px 9px rgba(198, 198, 198, .36);
   border-radius: 20px;
   background: #bbfad5;
-  color: #000;
-
-  text-align: center;
   cursor: grab;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .page__item:active {

@@ -1,9 +1,8 @@
 /* Page */
 .page__col-header {
-  padding: .8rem 1rem;
+  padding: 10px 0;
   width: 150px;
 
   box-shadow: 4px 4px 9px rgba(198, 198, 198, .36);
   border-radius: 20px;
-  color: #000;
 }
