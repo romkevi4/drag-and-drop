@@ -1,0 +1,22 @@
+/* Style normalizer */
+@import url(../vendor/normalize/normalize.css);
+
+/* Fonts */
+@import url(../vendor/fonts/font.css);
+
+/* Root */
+@import url(../blocks/root/root.css);
+
+/* Page */
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__row/page__row.css);
+@import url(../blocks/page/__col-header/page__col-header.css);
+@import url(../blocks/page/__item/page__item.css);
+@import url(../blocks/page/__text/page__text.css);
+@import url(../blocks/page/__placeholder/page__placeholder.css);
+@import url(../blocks/page/__col-header/_background/page__col-header_background_start.css);
+@import url(../blocks/page/__col-header/_background/page__col-header_background_progress.css);
+@import url(../blocks/page/__col-header/_background/page__col-header_background_done.css);
+@import url(../blocks/page/__item/_state/page__item_state_hold.css);
+@import url(../blocks/page/__item/_state/page__item_state_hide.css);
+@import url(../blocks/page/__placeholder/_state/page__placeholder_state_hovered.css);

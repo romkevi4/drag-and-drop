@@ -1,0 +1,8 @@
+/* RubikDistressed */
+@font-face {
+  font-family: 'RubikDistressed';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('RubikDistressed-Regular.ttf') format("truetype");
+}
