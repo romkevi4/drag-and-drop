@@ -1,4 +1,5 @@
 import { item, placeholders } from '../utils/constants.js';
+import './index.css';
 
 item.addEventListener('dragstart', dragstart);
 item.addEventListener('dragend', dragend);
